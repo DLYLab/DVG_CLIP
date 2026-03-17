@@ -31,7 +31,7 @@ in both anomaly detection and localization performance.
 
 ## Overview
 <p align="center">
-  <img src="pic/img.png" alt="accuracy" width="50%">
+  <img src="pic/img.png" alt="accuracy" width="80%">
 </p>
 <p align="center">Comparison of hand-crafted text prompts, learnable text prompts, and our vision-guided dynamic text prompts. Hand-crafted prompts are fixed and unchanged throughout both training and inference; learnable prompts are dynamically optimized during training but revert to static templates at inference; our approach dynamically generates targeted prompt text adapted to the input image during inference, thereby strengthening the guidance ability from the text modality.</p>
 <p align="center">
