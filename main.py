@@ -191,7 +191,7 @@ def train(args):
       
 if __name__ == '__main__':
     
-    parser = argparse.ArgumentParser(description='Pytorch implemention of AF-CLIP')
+    parser = argparse.ArgumentParser(description='Pytorch implemention of DVG-CLIP')
     
     parser.add_argument('--clip_download_dir', type=str, default='./download/clip/', help='training dataset')
     
